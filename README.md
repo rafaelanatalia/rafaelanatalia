@@ -8,7 +8,7 @@
   🖥️💼 Trabalhando atualmente como <b>Front-End na Multscan</b>🖥️💼
   </p>
 <p align="center">
-  📚 Graduando em <b>Ciencia da Computação na Universidade Nove de Julho no Terceiro Semestre</b>📚
+  📚 Graduando em <b>Ciencia da Computação na Universidade Nove de Julho</b>📚
   </p>
 <p align= "center">
   📚 Estudante da <b> Digital House</b>📚
