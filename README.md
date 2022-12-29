@@ -44,16 +44,26 @@
   
    <div>
   <a href="https://github.com/rafaelanatalia" >
-<img height="180em"src="https://github-readme-stats.vercel.app/api?username=rafaelanatalia&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelanatalia&layout=compact&langs_count=16&theme=radical"/>  
-</div>
+<img height="160em"src="https://github-readme-stats.vercel.app/api?username=rafaelanatalia&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelanatalia&layout=compact&langs_count=16&theme=radical"/>  
+  <img height='160em'src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafaelanatalia&theme=radical" />
+   </div>
   
-  <div style="display: inline_block"><br>
+
+  
+<!-- card   -->
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafaelanatalia&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafaelanatalia&hide=Html&theme=radical) | 
+| :-: | :-: |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaelanatalia&theme=radical) | ![](https://github-readme-streak-stats.herokuapp.com/?user=rafaelanatalia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=141321&stroke=141321&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+
+
+  
+<!--  card  -->
+  
+ <div style="display: inline_block"><br>
   <img align="right" alt="Rafa-pc" <img src="https://github.com/rafaelanatalia/Img/blob/master/Group.png" min-width="400px" max-width="200px" width="200px" align="right" alt="Computador Rafaela">
 </div>
-  
-  ##
- 
 <div> 
   <a href="https://instagram.com/rafaela.n.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto: rafaela.natalia1998@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
